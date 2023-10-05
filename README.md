@@ -4,7 +4,7 @@ This is a gui that can be used to communicate with genicam camera (GIGE Vision).
 This project is based on [Harvesters](https://github.com/genicam/harvesters).
 This project has been tested with dalsa camera Teledyne DALSA Nano-C1920
 
-![Gui Image Example]("./sample.png")
+![Gui Image Example](sample.png)
 
 ## Setup Python env
 
